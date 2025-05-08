@@ -109,7 +109,9 @@ The following are templates for card entries, one for Vivosaur cards and the oth
 
 ##### Skills
 `damage`: This is optional and can be removed for skills that do no damage. If a skill has non-fixed base damage, set this to 0.
+
 `effect`: This is the text describing the effect of the skill. It is optional and can be removed for skills with no extra effect.
+
 `skill-2`: This is optional and can be removed for Vivosaurs without 2 skills.
 
 #### Actions
